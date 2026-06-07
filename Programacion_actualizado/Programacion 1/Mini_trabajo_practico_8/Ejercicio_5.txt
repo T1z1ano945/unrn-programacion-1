@@ -1,0 +1,41 @@
+Ejercicio 5 — Interpretación de código
+Leer el siguiente código sin ejecutarlo:
+
+def limpiar(texto):
+    return texto.strip().capitalize()
+
+def es_valido(nombre):
+    if len(nombre) >= 3:
+        return True
+    return False
+
+nombres = [" bart ", "ED", " walter", "rick "]
+validos = []
+
+for nombre in nombres:
+    nombre_limpio = limpiar(nombre)
+
+    if es_valido(nombre_limpio):
+        validos.append(nombre_limpio)
+
+print(validos)
+Responder:
+
+1) ¿Qué hace el programa?
+2) ¿Qué hace la función limpiar?
+3) ¿Qué hace la función es_valido?
+4) ¿Qué nombres quedan almacenados en validos?
+5) ¿Qué imprime el programa al finalizar?
+
+1) Lo que hacel el programa es recorrer las lista de nombres y con las funciones limpia y se queda solo con-
+los que tienen 3 o mas letras
+
+2) la funcion limpiar le saca los espacios de los costados y pone solo la primera letra-
+en mayuscula, es decir si tenemos "bart" esta palabra se va a convertir en "Bart".
+
+3) es_valido es un parametro que nos indica si la palabra tiene 3 o mas letras, si la palabra supera este parametro-
+nos devolvera el valor booleano True, mientras que sin no tiene nos devolvera False
+
+4) Los nombres que se almacenaran en validos son: bart, walter y rick. mientras que ed no debido a que no supera o iguala las 3 letras.
+
+5) El programa al finalizar imprimira ["Bart", "Walter", "Rick"]
