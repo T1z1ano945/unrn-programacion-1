@@ -1,4 +1,0 @@
-Bariloche;12
-Viedma;20
-Roca;18
-Bariloche;15
