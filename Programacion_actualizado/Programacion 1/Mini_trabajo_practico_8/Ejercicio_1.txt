@@ -1,0 +1,33 @@
+1) Explicá con tus palabras la diferencia entre:
+
+Lista
+Tupla
+Conjunto
+Diccionario
+
+En el caso de la lista esta es un conjunto de datos ordenados y mutables, las cuales permiten tener elementos duplicados.
+
+Las tuplas tambien son un conjunto de datos ordenados y permiten duplcados, la diferencia radica en que estas no pueden modificarse,
+es decir son inmutables.
+
+En el caso de los conjuntos son un conjunto dedatos mutables, los cuales tienen la diferencia en que estan desordenados y estos no permiten,
+elementos duplicados.
+
+Los diccionarios son un conjunto de datos desordenados , mutables que se almacenan en pares de clave-valor para permitirnos un acceso mas eficiente a los elementos.
+
+2) Para cada estructura, indicá un ejemplo de situación donde podría resultar útil.
+
+Lista:
+La lista podria ser util en los casos donde necesitemos datos los cuales podamos modificar con el tiempo y que mantengan un orden como en,
+fechas de cumpleaños, listas de compras, etc.
+
+Tupla:
+La tupla nos vendria bien donde necesitaramos datos los cuales no se modifiquen ni con el pasar del tiempo, como en coordenadas, ubicaciones,etc.
+
+Conjunto:
+En los conjuntos podriamos necesitarlos por ejemplo en una lista de invitados confirmados donde el dato duplicado no exista.
+
+Diccionario:
+
+En los diccionarios los podriamos utilizar en un catalogo de productos unico , donde podremos acceder por medio de la informacion de un elemento en especifico,
+por medio de un identifacador.

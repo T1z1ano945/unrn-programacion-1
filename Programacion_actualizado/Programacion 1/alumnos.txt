@@ -1,0 +1,4 @@
+& C:/Users/ulloa/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ulloa/Desktop/Ingenieria Electronica/Programacion 1/Mini_trabajo_practico_8/Ejercicio_3.py"
+& C:/Users/ulloa/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ulloa/Desktop/Ingenieria Electronica/Programacion 1/Mini_trabajo_practico_8/Ejercicio_4.py"
+& C:/Users/ulloa/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ulloa/Desktop/Ingenieria Electronica/Programacion 1/Mini_trabajo_practico_8/Ejercicio_4.py"
+& C:/Users/ulloa/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ulloa/Desktop/Ingenieria Electronica/Programacion 1/Mini_trabajo_practico_8/Ejercicio_4.py"

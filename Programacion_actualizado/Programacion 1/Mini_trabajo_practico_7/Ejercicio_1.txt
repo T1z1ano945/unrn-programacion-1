@@ -1,0 +1,19 @@
+Responder en un archivo de texto plano (.TXT), con sus palabras.
+
+1. ¿Porque es importante validar los datos que ingresa un usuario?
+2. ¿Que hace strip y en que se diferencia de split?
+3. ¿Para que puede servir count cuando una linea tiene datos separados por comas o por punto y coma?
+4. ¿Que problema pueden traer los espacios de mas al principio o al final de un dato?"""
+
+1) Es importante validar los datos que ingresa el usuario ya que esto nos permite tener la certeza--
+de que el codigo funcione de una forma eficiente y correcta evitando erorres.
+
+2) Lo que hace la funcion strip es eliminar los caracteres del principio y final de una cadena de caracteres,---
+mientras que la funcion split nos permite convertir una cadena de caracteres en una lista, dividiendo la cadena completa.
+
+3) Count puede llegar a servir para contar cuantos datos (variables) que tenemos, un ejemplo claro es cuando lo separamos por  5 comas--
+en este caso tendriamos 6 datos.
+
+4) Los espacios en blanco tanto en el principio como en el final nos puede causar errores en el prgrma--
+ya que el espacio es un caracter mas, por ejemplo si queremos ingresar con un nombre de usuario y le ponemos "Marta" y en nuestro programa --
+lo pusimos como " Marta" o "Marta ", directamente nos tiraria error.
